@@ -29,7 +29,7 @@ performed on a Windows(tm) system with the NI Linux RT System Image installed.
 Format a USB drive with **FAT32** File System and set **NIRECOVERY** as Volume label.
 
    .. image:: media/format_usb.png
-     :width: 200
+     :width: 300
 
 Mount `nilrt-recovery-media-x64.iso` found under
 `C:\\Program Files (x86)\\National Instruments\\RT Images\\Utilities\\Linux RT Safemode\\<version 24.8 and above>`
